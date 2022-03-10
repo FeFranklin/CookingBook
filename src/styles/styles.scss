@@ -1,3 +1,9 @@
+$baseColor: #524619; // BIAS: 84%
+$secondaryColor: #f0f8d1; // BIAS: 100%
+$auxColor1: #f0d8d2; // BIAS: 70%
+$auxColor2: #64352c; // BIAs: 83%
+
+
 .html {
   // html document ocupies 100% of screen
   height: 100vh;
@@ -14,4 +20,7 @@
   left: 0;
   right: 0;
   left: 0;
+
+  // styling
+  background-color: $baseColor;
 }
