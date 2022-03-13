@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://cooking-book.vercel.app/">
     <img src="https://img.icons8.com/windows/96/000000/cook-male.png" alt="Logo" width="80" height="80">
   </a>
 
