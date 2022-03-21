@@ -1,6 +1,11 @@
 import React from 'react';
+import handlers from '../utils/handlers';
 
 const Home = () => {
+  handlers.get()
+    .then(res => console.log(res))
+    .catch(err => console.log(err));
+
   return (
     <div className="container">
       <main>
